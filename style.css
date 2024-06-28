@@ -1,0 +1,29 @@
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+#test{
+
+    height: 200px;
+    width: 200px;
+    background-color: maroon;
+}
+#test1{
+
+    height: 200px;
+    width: 200px;
+    background-color: salmon;
+}
+#test2{
+
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+}
